@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My first Web Site</title>
-    <link>http://devstknco.github.io/index.xml</link>
-    <description>Recent content on My first Web Site</description>
+    <title>sitename</title>
+    <link>http://www.example.com/index.xml</link>
+    <description>Recent content on sitename</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
     <managingEditor>yourname@example.com (yourname)</managingEditor>
     <webMaster>yourname@example.com (yourname)</webMaster>
-    <copyright>(c) 2017 devstknco.</copyright>
+    <copyright>(c) 2015 yourname.</copyright>
     <lastBuildDate>Thu, 05 Jan 2017 11:43:06 +0000</lastBuildDate>
-    <atom:link href="http://devstknco.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>hello world</title>
-      <link>http://devstknco.github.io/hello-world/</link>
+      <link>http://www.example.com/hello-world/</link>
       <pubDate>Thu, 05 Jan 2017 11:43:06 +0000</pubDate>
       <author>yourname@example.com (yourname)</author>
-      <guid>http://devstknco.github.io/hello-world/</guid>
+      <guid>http://www.example.com/hello-world/</guid>
       <description>&lt;p&gt;Hello World!&lt;/p&gt;
 </description>
     </item>
